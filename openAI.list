@@ -21,4 +21,4 @@ PROCESS-NAME,dnplayer.exe,DIRECT
 PROCESS-NAME,dnmultiplayer.exe,DIRECT
 PROCESS-NAME,OnethingLiteApp.exe,DIRECT
 DOMAIN-SUFFIX,getquicker.net,DIRECT
-DOMAIN-SUFFIX,gwdang.com,DIRECT
+DOMAIN-SUFFIX,browser.gwdang.com,DIRECT
